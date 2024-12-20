@@ -1,3 +1,26 @@
+/*
+
+Task 1: Array Search – Find the First Repeated Element
+Write a Java program to find the first repeated element in an array of integers. The program should:
+Take the size of the array and its elements as input.
+Find and print the first element that repeats in the array (i.e., occurs more than once).
+If no element repeats, print "No repeated elements found."
+Example Input:
+Enter the size of the array: 6
+Enter the elements of the array: 4 5 6 7 4 8 7 4 8 4 9
+
+*/
+/*
+
+Nichita Selchin , Student No : sba24331
+
+Repository link : https://github.com/Nichita777/task1
+
+*/
+
+
+
+
 package com.mycompany.task1;
 
 import java.util.HashSet;
